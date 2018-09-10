@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "23172850656",
+    "firebase_url": "https://jsa-cloud-firestone.firebaseio.com",
+    "project_id": "jsa-cloud-firestone",
+    "storage_bucket": "jsa-cloud-firestone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23172850656:android:0c2984081be3cc93",
+        "android_client_info": {
+          "package_name": "com.galdino.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23172850656-e824ui453kev8nrhv1nouh81of40hp1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMpbSziP60SuNmUgz25zT6AXJpQBgw4U4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
